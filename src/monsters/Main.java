@@ -11,6 +11,9 @@ public class Main {
 
         System.out.println("Pokeman 1 " + p1.getEyes());
         System.out.println("Pokeman 2 " + p2.getEyes());
+
+        p1.specialPowers();
+        p2.specialPowers();
     }
 
 }
